@@ -52,6 +52,6 @@ This project tackles a **multi-class classification problem** to predict forest 
 - **Confusion Matrix:**  
   ![Confusion Matrix](images/confusion_matrix.png)  
 - **Feature Importance:**  
-  ![Feature Importance](images/feature_importance.png)  
+  ![Feature Importance](feature_importance.png)  
 
 ---
