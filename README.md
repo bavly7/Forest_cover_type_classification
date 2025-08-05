@@ -49,8 +49,12 @@ This project tackles a **multi-class classification problem** to predict forest 
 | XGBoost        | 0.89     | 0.89 (not weighted)                |
 
 ### Visualizations:
-- **Confusion Matrix:**  
-  ![Confusion Matrix](images/confusion_matrix.png)  
+- **Confusion Matrix for randomforest:**  
+  ![Confusion Matrix](conv_rf.png)
+  
+- **Confusion Matrix for XGB:**  
+  ![Confusion Matrix](conv_xgb.png)
+   
 - **Feature Importance:**  
   ![Feature Importance](feature_importance.png)  
 
